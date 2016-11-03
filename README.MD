@@ -9,6 +9,6 @@ Google Font:
 - Noto Sans (Google)
 - Proza Libre (Jasper de Waard)
 - Exo 2 (Natanael Gama)
-- Orbitron (Matt Mclnerey)
+- Orbitron (Matt Mclnerney)
 - Alegreya Sans SC (Juan Pablo del Peral)
 - Raleway (Multiple Designers: Matt Mclnerney, Pablo Impallari, Rodrigo Fuenzalida, Igino Marini)
